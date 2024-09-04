@@ -1,1 +1,1 @@
-# sensible_apache_zeppelin
+# ansible_apache_zeppelin
